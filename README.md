@@ -1,6 +1,6 @@
 # quiz
 
-A new Flutter project.
+Quiz Matematika Menggunakan Flutter
 
 ## Getting Started
 
